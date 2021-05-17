@@ -4,8 +4,9 @@ JSGameDevLib
 This is the JavaScript Game Development Boilerplate/Helper code which I use to develop web games with JavaScript.
 
 Following are the games that uses this library as a base:
-1. **Mystic Chambers - https://bacstudios.itch.io/mystic-chambers**
-2. **Leaf Cutter Empire - https://digital-naturalism-laboratories.github.io/leafcutter-ants-game/**
+1. **Flick Tactics - https://bacstudios.itch.io/flick-tactics**
+2. **Mystic Chambers - https://bacstudios.itch.io/mystic-chambers**
+3. **Leaf Cutter Empire - https://digital-naturalism-laboratories.github.io/leafcutter-ants-game/**
 
 Here are some valuable points for understanding the library:
 * Renderer is the same thing as context of canvas. The context is used mostly for rendering therefore, I named it renderer instead of context.
