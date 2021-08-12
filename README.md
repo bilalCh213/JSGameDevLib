@@ -4,8 +4,8 @@ JSGameDevLib
 This is the JavaScript Game Development Boilerplate/Helper code which I use to develop web games with JavaScript.
 
 Following are the games that uses this library as a base:
-1. **Flick Tactics - https://bacstudios.itch.io/flick-tactics**
-2. **Mystic Chambers - https://bacstudios.itch.io/mystic-chambers**
+1. **Flick Tactics - https://boldaestheticcreative.itch.io/flick-tactics**
+2. **Mystic Chambers - https://boldaestheticcreative.itch.io/mystic-chambers**
 3. **Leaf Cutter Empire - https://digital-naturalism-laboratories.github.io/leafcutter-ants-game/**
 
 Here are some valuable points for understanding the library:
